@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# production
+dist/
+.vite/
+
+# optional cache directories
+.cache/
+*.log
+
+# environment variables
+.env
+.env.* 
+
+# editor stuff
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
